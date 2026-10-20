@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">A little more room to breathe</title>
+<desc id="desc">Start with one useful job. Give a worker context and boundaries. Review the result. A simple path from your knowledge to work you can inspect.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102c2a"/><stop offset="1" stop-color="#10201f"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#7be6bf" stop-opacity=".17"/><stop offset="1" stop-color="#7be6bf" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+<ellipse cx="1020" cy="30" rx="450" ry="350" fill="url(#glow)"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+ <text x="64" y="64" font-size="14" font-weight="700" letter-spacing="3" fill="#9ce8cb">WORK WITH ZATI</text>
+ <text x="64" y="126" font-size="42" font-weight="650" fill="#f8f4ed">A little more room to breathe.</text>
+ <text x="64" y="164" font-size="20" fill="#bfd0c9">Your knowledge. Your workers. Your call.</text>
+ <g fill="#183a35" stroke="#44665b"><rect x="64" y="215" width="324" height="140" rx="16"/><rect x="438" y="215" width="324" height="140" rx="16"/><rect x="812" y="215" width="324" height="140" rx="16"/></g>
+ <g fill="#9ce8cb" font-size="14" font-weight="700"><text x="88" y="248">01 / DEFINE</text><text x="462" y="248">02 / EQUIP</text><text x="836" y="248">03 / REVIEW</text></g>
+ <g fill="#f8f4ed" font-size="23" font-weight="600"><text x="88" y="286">One useful job</text><text x="462" y="286">Context + boundaries</text><text x="836" y="286">Work you can inspect</text></g>
+ <g fill="#bfd0c9" font-size="17"><text x="88" y="321">Make the outcome clear.</text><text x="462" y="321">Give the worker what it needs.</text><text x="836" y="321">Check it. Decide what’s next.</text></g>
+ <g stroke="#9ce8cb" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M401 285h22m-7-7 7 7-7 7"/><path d="M775 285h22m-7-7 7 7-7 7"/></g>
+</g>
+</svg>
